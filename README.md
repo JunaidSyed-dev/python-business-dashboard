@@ -95,17 +95,6 @@ Through this project, I practiced:
 * Saving visualizations as image files
 * Structuring a Python project for GitHub
 
-## 🔮 Future Improvements
-
-Possible improvements include:
-
-* Using a CSV or database instead of manually created data
-* Adding more business metrics
-* Improving dashboard interactivity
-* Adding filtering options
-* Using Plotly or another interactive visualization library
-* Adding automated data analysis
-* Connecting the project to a real-world dataset
 
 ## 👤 Author
 
